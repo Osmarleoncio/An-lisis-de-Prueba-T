@@ -17,4 +17,3 @@ qqline(equipo_b)
 
 # Prueba t para muestras independientes
 t.test(equipo_a, equipo_b, var.equal = TRUE)
-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
